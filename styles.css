@@ -1,0 +1,10 @@
+
+h1 {font-size: 40px;}
+li {list-style-type: none;border: 17px 30px; background-color: #00FF00; border-bottom: solid 1px;}
+
+.imgdog {margin-bottom: 50px;}
+.imgdog p {margin-bottom: 20px;}
+.dropdown-item {border: none; background-color:#00FF00; }
+.paragraph  {padding-bottom: 20px; padding-top: 20px;}
+.dogs {margin-left: 60px;}
+.dogs img {margin-left: 15px;}
